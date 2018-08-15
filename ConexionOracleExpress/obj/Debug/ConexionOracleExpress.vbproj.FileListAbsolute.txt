@@ -1,0 +1,12 @@
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\bin\Debug\ConexionOracleExpress.exe.config
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\bin\Debug\ConexionOracleExpress.exe
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\bin\Debug\ConexionOracleExpress.pdb
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\bin\Debug\ConexionOracleExpress.xml
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.vbprojAssemblyReference.cache
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.MainForm.resources
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.Resources.resources
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.vbproj.GenerateResource.cache
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.vbproj.CoreCompileInputs.cache
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.exe
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.xml
+C:\Users\Ely\Source\Repos\Tarea\ConexionOracleExpress\ConexionOracleExpress\obj\Debug\ConexionOracleExpress.pdb
